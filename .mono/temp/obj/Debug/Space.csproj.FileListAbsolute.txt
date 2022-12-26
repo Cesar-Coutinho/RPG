@@ -1,0 +1,9 @@
+C:\Users\czarf\OneDrive\Documentos\Space\.mono\temp\bin\Debug\Space.dll
+C:\Users\czarf\OneDrive\Documentos\Space\.mono\temp\bin\Debug\Space.pdb
+C:\Users\czarf\OneDrive\Documentos\Space\.mono\temp\obj\Debug\Space.csproj.AssemblyReference.cache
+C:\Users\czarf\OneDrive\Documentos\Space\.mono\temp\obj\Debug\Space.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czarf\OneDrive\Documentos\Space\.mono\temp\obj\Debug\Space.AssemblyInfoInputs.cache
+C:\Users\czarf\OneDrive\Documentos\Space\.mono\temp\obj\Debug\Space.AssemblyInfo.cs
+C:\Users\czarf\OneDrive\Documentos\Space\.mono\temp\obj\Debug\Space.csproj.CoreCompileInputs.cache
+C:\Users\czarf\OneDrive\Documentos\Space\.mono\temp\obj\Debug\Space.dll
+C:\Users\czarf\OneDrive\Documentos\Space\.mono\temp\obj\Debug\Space.pdb
